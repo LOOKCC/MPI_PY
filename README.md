@@ -1,4 +1,4 @@
-# Sample MPIm In Python
+# Sample MPI In Python
 
 ## Installation
 Install mpi4py in your conda environment.
